@@ -11,6 +11,6 @@ Frontend разработка мне нравится потому, что в п
 
 ## Контакты
 
-`@lex_garasenko` — telegram  
+`@alex_garasenko` — telegram  
 `alex.gorasenko1605@gmail.com` — почта
 
